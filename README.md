@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rabiyulfahimhasim786
 - 👀 I’m interested in python,java, django, springboot
-- 🌱 I’m currently learning django restframework
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning django restframework, flask, bs4, etc..
+- 💞️ I’m looking to collaborate on opencv, datascience, mechinelearning.
 - 📫 How to reach me ...
 
 <!---
