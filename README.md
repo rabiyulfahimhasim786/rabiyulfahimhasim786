@@ -26,8 +26,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/rabiyulfahim/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](]https://www.instagram.com/rabiyulfahim/#gh-dark-mode-only)
 
-<br>
-<br>
+
 ---
 
 # 💻Tech Stack
