@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://https://hrfcreation.blogspot.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://https://hrfcreation.blogspot.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://hrfcreation.blogspot.com/)
+[![website](./img/globe-dark.svg)](https://hrfcreation.blogspot.com/)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCsMaYg3Y35iEL9BRqjt6IwQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCsMaYg3Y35iEL9BRqjt6IwQ#gh-dark-mode-only)
