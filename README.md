@@ -52,6 +52,33 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rabiyulfahim/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabiyul-fahim-0b9981155/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rabiyulfahimh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
 
 ---
+<br/>
+
+<a href="https://github.com/rabiyulfahimhasim786/github-readme-activity-graph"><img alt="rabiyulfahimhasim786 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rabiyulfahimhasim786&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rabiyul-fahim-0b9981155/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/rabiyulfahim"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rabiyulfahim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rabiyulfahimhasim786">
+</a>
+<a href="https://github.com/rabiyulfahimhasim786?tab=followers"><img src="https://img.shields.io/github/followers/rabiyulfahimhasim786?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+---
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rabiyulfahim) 
 
